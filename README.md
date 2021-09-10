@@ -28,7 +28,7 @@ Tutorial on Tools and Datasets for Machine Learning in Solar Physics prepared fo
 TL;DR for local development
 
 ```
-make install
+make setup
 make notebook
 ```
 
