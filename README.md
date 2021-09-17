@@ -20,7 +20,7 @@ Tutorial on Tools and Datasets for Machine Learning in Solar Physics prepared fo
 
 ### SOHO Sunspot Dataset
 
-[![Open SOHO Sunpots Demo in Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/i4Ds/rodem-sp-tutorial-2021/blob/main/notebooks/SOHO_sunspots_dataset.ipynb)
+[![Open SOHO Sunpots Demo in Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/i4Ds/rodem-sp-tutorial-2021/blob/main/notebooks/SOHO_sunspots_dataset.ipynb)
 
 
 ## Development
