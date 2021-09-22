@@ -17,10 +17,14 @@ Tutorial on Tools and Datasets for Machine Learning in Solar Physics prepared fo
 
 [![Open SDO Benchmark Demo in Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/i4Ds/rodem-sp-tutorial-2021/blob/main/notebooks/SDO_benchmark_dataset.ipynb)
 
-
 ### SOHO Sunspot Dataset
 
 [![Open SOHO Sunpots Demo in Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/i4Ds/rodem-sp-tutorial-2021/blob/main/notebooks/SOHO_sunspots_dataset.ipynb)
+
+### Galaxy Zoo Dataset
+
+[![Open Galaxy Zoo Demo in Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/i4Ds/rodem-sp-tutorial-2021/blob/main/notebooks/GalaxyZoo_dataset.ipynb)
+
 
 
 ## Development
