@@ -8,6 +8,8 @@ Tutorial on Tools and Datasets for Machine Learning in Solar Physics prepared fo
 - [Demos](#demos)
   - [SDO Benchmark Dataset](#sdo-benchmark-dataset)
   - [SOHO Sunspot Dataset](#soho-sunspot-dataset)
+  - [kaggle2019 Time Series](#kaggle2019-time-series)
+  - [Galaxy Zoo Dataset](#galaxy-zoo-dataset)
 - [Development](#development)
 - [Links](#links)
 
