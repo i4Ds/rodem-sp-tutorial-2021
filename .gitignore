@@ -205,3 +205,5 @@ tmp
 output
 notebooks/data/**
 !notebooks/data/.gitkeep
+notebooks/training_solutions_rev1.zip
+notebooks/images_training_rev1.zip
